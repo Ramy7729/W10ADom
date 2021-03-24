@@ -1,0 +1,15 @@
+
+.bkgColor {
+    background-color:#dce4ec;
+}
+
+h1 {
+    text-align: center;
+}
+
+main > div {
+    display: grid;
+    grid-template-rows: auto;
+    place-items: center;
+    
+}
